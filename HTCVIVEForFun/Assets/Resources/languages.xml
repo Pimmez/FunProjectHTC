@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- [XmlRoot("LanguagesCollection")] || [XmlArray("Languages"), XmlArrayItem("Lang")]-->
+<LanguagesCollection>
+  <Languages>
+    <Lang><!--English -->
+      <TriggerButton>Grab Items</TriggerButton>
+      <GripButton>Change Language</GripButton>
+      <CurrentLanguage>English</CurrentLanguage>
+      <TouchPad>Teleport</TouchPad>
+    </Lang>
+    <Lang><!--Chinese -->
+      <TriggerButton>抓物品</TriggerButton>
+      <GripButton>改變語言</GripButton>
+      <CurrentLanguage>中文</CurrentLanguage>
+      <TouchPad>傳送</TouchPad>
+    </Lang>
+    <Lang><!--German -->
+      <TriggerButton>Greifen Gegenstände</TriggerButton>
+      <GripButton>Sprache ändern</GripButton>
+      <CurrentLanguage>German</CurrentLanguage>
+      <TouchPad>Teleportieren</TouchPad>
+    </Lang>
+    <Lang><!--French -->
+      <TriggerButton>Objets Grab</TriggerButton>
+      <GripButton>Changer de langue</GripButton>
+      <CurrentLanguage>Français</CurrentLanguage>
+      <TouchPad>Teleport</TouchPad>
+    </Lang>
+  </Languages>
+</LanguagesCollection>

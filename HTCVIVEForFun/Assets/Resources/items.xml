@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DialogueCollection>
+  <AllDialogues>
+    <Dialogues ID="1">
+      <Texten>
+        <Text>I locked myself in this room because of all the chaos.</Text>
+        <Text>Hopefully i'm not the only one that survived...</Text>
+        <Text>I need to find a way out!</Text>
+      </Texten>
+    </Dialogues>
+    <Dialogues ID="2">
+      <Texten>
+        <Text>......... </Text>
+        <Text>This isn't the way out...</Text>
+        <Text>Hmm i should probably look around.</Text>
+      </Texten>
+      <FindKey>This door requires a key, I have to search for it.</FindKey>
+      <FoundKey>This will probably be the key for the closed door.</FoundKey>
+    </Dialogues>
+    <Dialogues ID="3">
+      <NpcName>NPC</NpcName>
+      <Npc>Hello my name is [NpcName]</Npc>
+      <Texten>
+        <Text>AAAA</Text>
+        <Text>BBBB</Text>
+        <Text>VVVV</Text>
+        <Text>CCCC</Text>
+      </Texten>
+    </Dialogues>
+  </AllDialogues>
+</DialogueCollection>

@@ -1,0 +1,17 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class EnemyManager : MonoBehaviour{
+
+    //Lets them hear you!
+	public virtual void Yell(string yell)
+    {
+        Debug.Log("I'm the EnemyManager" + yell);
+    }
+
+    private void Walk()
+    {
+       
+    }
+}
